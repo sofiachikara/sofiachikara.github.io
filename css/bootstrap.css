@@ -65,7 +65,7 @@ h1 {
 }
 mark {
   color: #000;
-  background: #ff0;
+  background: #000;
 }
 small {
   font-size: 80%;
@@ -177,7 +177,7 @@ textarea {
   overflow: auto;
 }
 optgroup {
-  font-weight: bold;
+  font-weight: normal;
 }
 table {
   border-spacing: 0;
@@ -1097,12 +1097,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #ffffff;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: #ffffff;
   text-decoration: underline;
 }
 a:focus {
@@ -1293,7 +1293,7 @@ p {
 .lead {
   margin-bottom: 20px;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 200;
   line-height: 1.4;
 }
 @media (min-width: 768px) {
@@ -1338,25 +1338,25 @@ mark,
   color: #777;
 }
 .text-primary {
-  color: #337ab7;
+  color: #ffffff;
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #286090;
+  color: #ffffff;
 }
 .text-success {
-  color: #3c763d;
+  color: #ffffff;
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #2b542c;
+  color: #ffffff;
 }
 .text-info {
-  color: #31708f;
+  color: #ffffff;
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #245269;
+  color: #ffffff;
 }
 .text-warning {
   color: #8a6d3b;
@@ -3474,7 +3474,7 @@ input[type="button"].btn-block {
           transition: opacity .15s linear;
 }
 .fade.in {
-  opacity: 1;
+  opacity: 0;
 }
 .collapse {
   display: none;
