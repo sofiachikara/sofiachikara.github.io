@@ -34,7 +34,7 @@ body, html {
 }
 body, h1, h2, h3, h4, h5, h6 {
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 400;
+    font-weight: 300;
 }
 .container {
     text-align: center;
@@ -51,7 +51,6 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 .intro-message > h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
     font-size: 3em;
 }
 .intro-divider {
@@ -60,7 +59,7 @@ body, h1, h2, h3, h4, h5, h6 {
     border-bottom: 1px solid dimgrey;
 }
 .intro-message > h2, .intro-message > h3 {
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0);
 }
 .intro-message > h2 {
     font-size: 2em;
@@ -80,13 +79,11 @@ body, h1, h2, h3, h4, h5, h6 {
     color: #404040;
     font-size: 2em;
     font-weight: 400;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
 }
 .intro-content .address {
     color: #fff;
     font-size: 1.6em;
     font-weight: 400;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
 }
 .intro-footer {
     font-size: 1em;
