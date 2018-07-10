@@ -17,7 +17,7 @@ body, html {
     background: url(../img/intro-bg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center bottom;
+    background-position: center;
     -webkit-background-size: auto 100%;
     -moz-background-size: auto 100%;
     background-size: auto 100%;
