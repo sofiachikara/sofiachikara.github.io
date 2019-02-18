@@ -38,7 +38,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 .container {
     text-align: center;
-    color: #000000;
+    color: #111111;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -55,7 +55,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 .intro-divider {
     width: 100%;
-    border-top: 1px solid #000000;
+    border-top: 1px solid #111111;
     border-bottom: 1px solid dimgrey;
 }
 .intro-message > h2, .intro-message > h3 {
@@ -64,7 +64,7 @@ body, h1, h2, h3, h4, h5, h6 {
 .intro-message > h2 {
     font-size: 2em;
     line-height: 1.625;
-    color: #000000;
+    color: #111111;
 }
 .intro-message > h3 {
     font-size: 1.5em;
@@ -76,12 +76,12 @@ body, h1, h2, h3, h4, h5, h6 {
     padding-bottom: 5%;
 }
 .intro-content .tel {
-    color: #000;
+    color: #111;
     font-size: 2em;
     font-weight: 400;
 }
 .intro-content .address {
-    color: #000;
+    color: #111;
     font-size: 1.6em;
     font-weight: 400;
 }
@@ -90,7 +90,7 @@ body, h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 .intro-footer .text-muted {
-    color: #000000;
+    color: #111111;
     font-weight: normal;
 }
 .network-name {
@@ -101,7 +101,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 footer {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #111111;
 }
 
 .intro-social-buttons {
@@ -131,7 +131,7 @@ ul.intro-social-buttons > li:last-child {}
     }
     .intro-divider {
         width: 80%;
-        border-top: 1px solid #f8f8f8;
+        border-top: 1px solid #111111;
         border-bottom: 1px solid dimgrey;
     }
     .intro-message > h1 {
