@@ -55,7 +55,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 .intro-divider {
     width: 100%;
-    border-top: 1px solid #f8f8f8;
+    border-top: 1px solid #000000;
     border-bottom: 1px solid dimgrey;
 }
 .intro-message > h2, .intro-message > h3 {
