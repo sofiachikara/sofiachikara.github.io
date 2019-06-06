@@ -14,7 +14,7 @@ body, html {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    background: url(../img/image_bg.jpg);
+    background: url(../img/image-bg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center bottom;
